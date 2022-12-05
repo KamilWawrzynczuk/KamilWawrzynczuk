@@ -7,4 +7,7 @@ Now I am working with:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilwawrzynczuk&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilwawrzynczuk&show_icons=true&theme=transparent)4
+
+
+![](https://komarev.com/ghpvc/?username=kamilwawrzynczuk&color=lightgray)
