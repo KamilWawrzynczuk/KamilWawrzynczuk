@@ -1,6 +1,6 @@
 ## Hi, i am Kamil Wawrzyńczuk.
 
-Goal oriented Web Developer with master degree in mathematics and experience in graphic design. Graduated from a one-year long intensive course in Full Stack Development. Working as Frontend Developer.
+Web Developer with master degree in mathematics and experience in graphic design. Graduated from a one-year long intensive course in Full Stack Development. Working as Frontend Developer.
 Looking forward to combining my work experience and knowledge to solve challenging problems and offer long term solutions.
 Open for new projects and working together.
 
